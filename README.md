@@ -5,9 +5,23 @@ This is a simple flake for downloading any soundcloud track or playlist or Go so
 
 ```bash
 nix develop
+```
+```
+
 
 # Download a song
-```bash
+
+``` bash
 souncloud-dl "https://link"
 ```
+
+
 ```
+```
+
+
+```
+```
+
+```
+
