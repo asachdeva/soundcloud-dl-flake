@@ -1,8 +1,13 @@
-## Flake to download any video or audio and use ffmpeg to convert into any format from any online source including:
-* spotify
-* soundcloud
-* youtube
-* vimeo
-* bluesky
+## Soundcloud-dl
+This is a simple flake for downloading any soundcloud track or playlist or Go song.
 
-  
+## Usage
+
+```bash
+nix develop
+
+# Download a song
+```bash
+souncloud-dl "https://link"
+```
+```
